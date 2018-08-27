@@ -24,6 +24,11 @@ letter-spacing: 0.1em;
   color: #FA8072;
 }
 
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 #header-title {
   display: block;
   float: left;
@@ -35,6 +40,7 @@ letter-spacing: 0.1em;
   display: block;
   float:right;
   margin-top: 0;
+  margin-left: 20px;
 }
 
 #header-nav li {
@@ -77,7 +83,7 @@ a:hover {
   color: #FA8072;
 }
 
-.post, .about {
+.post {
   max-width: 800px;
   margin: 0 auto;
   padding: 60px 0;
