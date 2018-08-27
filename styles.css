@@ -24,12 +24,11 @@ letter-spacing: 0.1em;
   color: #FA8072;
 }
 
-#header-tittle {
+#header-title {
   display: block;
   float: left;
 
   font-size: 20px;
-  font-weight: bold;
 }
 
 #header-nav {
